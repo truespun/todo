@@ -1,5 +1,8 @@
 # todo
-
+###0.CD todo
+```bash
+cd todo
+```
 ###1. Copy env (update if needed). 
 ```bash
 cp .env.example .env
